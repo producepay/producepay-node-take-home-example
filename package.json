@@ -1,0 +1,14 @@
+{
+  "name": "producepay-node-take-home-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.0.4",
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "jest",
+    "test-watcher": "jest --watchAll"
+  }
+}
